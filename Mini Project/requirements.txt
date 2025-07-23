@@ -1,5 +1,6 @@
 streamlit
 speechrecognition
-pyttsx3
 wikipedia
-requests # Added for making HTTP requests to the LLM API
+requests
+langdetect
+googletrans==4.0.0rc1
