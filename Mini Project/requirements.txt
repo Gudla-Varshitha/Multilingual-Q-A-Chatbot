@@ -1,0 +1,5 @@
+streamlit
+speechrecognition
+pyttsx3
+wikipedia
+requests # Added for making HTTP requests to the LLM API
